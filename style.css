@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.local-white{
+    color: rgb(247, 245, 245);
+
+}
+.back-img{
+    background-image: url(assets/img/slide.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jarak-bg{
+    padding: 30px 30px 30px 30px;
+}
